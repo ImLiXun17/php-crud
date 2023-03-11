@@ -69,16 +69,22 @@
     text-align: center;
     margin-left:auto;
     margin-right:auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .container{
     text-align:center;
 }
 .btn-search{
-    background-color: #0583d2;
+    background-color: tomato;
     color:white;
     border:none;
-    padding: 4px 7px;
-    border-radius:5px;
+    padding: 7px 12px;
+    border-radius:11px;
+}
+.form-control{
+    padding: 6px;
+    width: 200px;
+    border-radius: 11px;
 }
 </style>
 <body>

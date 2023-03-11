@@ -115,10 +115,15 @@ include 'config/db.php';
     text-align:center;
 }
 .btn-search{
-    background-color: #0583d2;
+    background-color: tomato;
     color:white;
     border:none;
-    padding: 4px 7px;
-    border-radius:5px;
+    padding: 7px 12px;
+    border-radius:11px;
+}
+.form-control{
+    padding: 6px;
+    width: 200px;
+    border-radius: 11px;
 }
 </style>
